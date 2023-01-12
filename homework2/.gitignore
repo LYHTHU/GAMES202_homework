@@ -1,0 +1,4 @@
+.vscode/
+/build
+build/
+prt/scenes/
